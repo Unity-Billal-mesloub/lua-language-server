@@ -81,8 +81,6 @@ Thank you to [all contributors of translations](https://github.com/Unity-Billal-
 The language server had **opt-in** telemetry that collected usage data and sent it to the development team to help improve the extension. Read our [privacy policy](https://luals.github.io/privacy#language-server) to learn more. Telemetry was removed in `v3.6.5` and is no longer part of the language server.
 
 
-## Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=sumneko/lua-language-server)
 
 ## Credit
 Software that the language server (or the development of it) uses:
