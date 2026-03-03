@@ -85,6 +85,7 @@ The language server had **opt-in** telemetry that collected usage data and sent 
 ## Credit
 Software that the language server (or the development of it) uses:
 
+* [bee.lua](https://github.com/actboy168/bee.lua)
 * [luamake](https://github.com/actboy168/luamake)
 * [LPegLabel](https://github.com/sqmedeiros/lpeglabel)
 * [LuaParser](https://github.com/LuaLS/LuaParser)
