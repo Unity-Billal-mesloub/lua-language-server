@@ -45,19 +45,19 @@ The install methods below are maintained by community members.
 [asdf plugin](https://github.com/bellini666/asdf-lua-language-server)
 
 ## Links
-- [Changelog](https://github.com/LuaLS/lua-language-server/blob/master/changelog.md)
+- [Changelog](https://github.com/Unity-Billal-mesloub/lua-language-server/blob/master/changelog.md)
 - [Wiki](https://luals.github.io/wiki)
 - [FAQ](https://luals.github.io/wiki/faq)
 - [Report an issue][issues]
 - [Suggest a feature][issues]
-- [Discuss](https://github.com/LuaLS/lua-language-server/discussions)
+- [Discuss](https://github.com/Unity-Billal-mesloub/lua-language-server/discussions)
 
 > If you find any mistakes, please [report it][issues] or open a [pull request][pulls] if you have a fix of your own ❤️
 >
 > 如果你发现了任何错误，请[告诉我][issues]或使用[Pull Requests][pulls]来直接修复。❤️
 
-[issues]: https://github.com/LuaLS/lua-language-server/issues
-[pulls]: https://github.com/LuaLS/lua-language-server/pulls
+[issues]: https://github.com/Unity-Billal-mesloub/lua-language-server/issues
+[pulls]: https://github.com/Unity-Billal-mesloub/lua-language-server/pulls
 
 ## Available Languages
 
@@ -70,11 +70,11 @@ The install methods below are maintained by community members.
 
 
 > **Note**
-> All translations are provided and collaborated on by the community. If you find an inappropriate or harmful translation, [please report it immediately](https://github.com/LuaLS/lua-language-server/issues).
+> All translations are provided and collaborated on by the community. If you find an inappropriate or harmful translation, [please report it immediately](https://github.com/Unity-Billal-mesloub/lua-language-server/issues).
 
 Are you able to [provide a translation](https://luals.github.io/wiki/translations)? It would be greatly appreciated!
 
-Thank you to [all contributors of translations](https://github.com/LuaLS/lua-language-server/commits/master/locale)!
+Thank you to [all contributors of translations](https://github.com/Unity-Billal-mesloub/lua-language-server/commits/main/locale)!
 
 
 ## Privacy
@@ -87,7 +87,6 @@ The language server had **opt-in** telemetry that collected usage data and sent 
 ## Credit
 Software that the language server (or the development of it) uses:
 
-* [bee.lua](https://github.com/actboy168/bee.lua)
 * [luamake](https://github.com/actboy168/luamake)
 * [LPegLabel](https://github.com/sqmedeiros/lpeglabel)
 * [LuaParser](https://github.com/LuaLS/LuaParser)
